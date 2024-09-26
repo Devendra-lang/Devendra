@@ -1,4 +1,5 @@
-<head><meta name="google-site-verification" content="3sdp8jqGnC_Et16VHOL_AS1URWXAghSzv3m6feAZ5HM" /></head>
+
+![banner](https://github.com/user-attachments/assets/a10ec3a1-39a8-4032-a5e5-79dc18c89ec2)
 
 <h1 align="center">Hey 👋, I'm Devendra Tanwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
