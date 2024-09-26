@@ -1,3 +1,5 @@
+<head><meta name="google-site-verification" content="3sdp8jqGnC_Et16VHOL_AS1URWXAghSzv3m6feAZ5HM" /></head>
+
 <h1 align="center">Hey 👋, I'm Devendra Tanwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
